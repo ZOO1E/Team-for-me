@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+li{
+    list-style-type: none;
+}
+body{
+    background-color: #111;
+    color:#999;
+}
+
+.wrapper{
+    display:flex;
+    justify-content: center;
+    height:100vh;
+    align-items: center;
+}
+
+.team{
+    background-color: aqua;
+    display:flex;
+}
